@@ -1,0 +1,5 @@
+websockets>=12.0
+sounddevice>=0.4.6
+# optional — enable embedding-based recall:
+# fastembed>=0.3
+# sqlite-vec>=0.1

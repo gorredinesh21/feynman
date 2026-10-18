@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+# personal data — never commit your brain
+*.db
+*.db.bak*
+brain/out/
+**/memory.db*
+**/diary.md
+**/todo.md
+**/journal.md
+# secrets
+*.token
+.env
